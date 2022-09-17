@@ -1,0 +1,35 @@
+#back{
+    background: url(carPic/side.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height: 66vh;
+}
+
+#road{
+    background: url(carPic/road.jpg); 
+}
+
+#img{
+    width: 30vh;
+}
+ #btn:hover{
+    background-color: rgb(19, 212, 225);
+    color: whitesmoke;
+} 
+#btn{
+    background-color: rgb(234, 234, 25);
+    width: 100px;
+    font-size: 30px;
+    display: block;
+    border-radius: 0.5rem;
+    font-size:large;
+    padding: 0.5rem 0.2rem;
+    margin-top: 1rem;
+}
+#dbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
